@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently a student and getting to now Git more and how it can be used. 
+I'm currently a student and getting to know Git more and how it can be used. 
 <!--
 **resandegrodan/resandegrodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
